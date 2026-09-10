@@ -1,0 +1,1 @@
+The goal of this project is to collect job listings based on a specific pattern and send them to Telegram using a bot.
