@@ -12,17 +12,17 @@ function App() {
     <section className="stats">
       <div className="stat-card">
         <span>Matches today</span>
-        <strong>0</strong>
+        <strong> 0</strong>
       </div>
 
       <div className="stat-card">
         <span>New jobs</span>
-        <strong>0</strong>
+        <strong> 0</strong>
       </div>
 
       <div className="stat-card">
         <span>Companies</span>
-        <strong>0</strong>
+        <strong> 0</strong>
       </div>
     </section>
 
