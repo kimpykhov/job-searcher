@@ -1,0 +1,2659 @@
+{
+    "jobs": [
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4881348101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4478199101,
+            "location": {
+                "name": "Shanghai, China"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4881348101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-7588095808",
+            "title": "Account Manager (China)",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-22T05:47:19-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4932739101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4503510101,
+            "location": {
+                "name": "Prague, Czech Republic"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Finance",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4932739101,
+            "updated_at": "2026-09-14T04:35:03-04:00",
+            "requisition_id": "P-3807200123, P-3404319675",
+            "title": "Accounts Payable Specialist",
+            "company_name": "JetBrains",
+            "first_published": "2026-08-10T10:16:33-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4936976101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4505319101,
+            "location": {
+                "name": "Foster City, California"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Finance",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4936976101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845160998",
+            "title": "Accounts Receivable Specialist",
+            "company_name": "JetBrains",
+            "first_published": "2026-08-05T13:56:54-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4901288101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4459241101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IDEs",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4901288101,
+            "updated_at": "2026-09-08T09:47:51-04:00",
+            "requisition_id": "P-7124662450",
+            "title": "AI Technical Lead - Developer Tooling",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-17T09:19:43-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4708214101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4396116101,
+            "location": {
+                "name": "Shanghai, China"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Education",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4708214101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-3261288771",
+            "title": "Campus Ambassador ",
+            "company_name": "JetBrains",
+            "first_published": "2025-11-10T05:30:23-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696941101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4391016101,
+            "location": {
+                "name": "Remote"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Education",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4696941101,
+            "updated_at": "2026-09-08T11:05:42-04:00",
+            "requisition_id": null,
+            "title": "Campus Ambassador (Universities in Europe)",
+            "company_name": "JetBrains",
+            "first_published": "2025-10-30T14:30:59-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696829101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4390955101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Legal",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4696829101,
+            "updated_at": "2026-08-24T10:42:14-04:00",
+            "requisition_id": "P-5847425613",
+            "title": "Compliance Manager (Export Controls & Sanctions)",
+            "company_name": "JetBrains",
+            "first_published": "2025-10-28T13:33:59-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4828073101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4451180101,
+            "location": {
+                "name": "Shanghai, China"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4828073101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-7273222543",
+            "title": "Customer Success Engineer (China)",
+            "company_name": "JetBrains",
+            "first_published": "2026-04-07T23:39:30-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4906209101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4409202101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Remote, Germany"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "YouTrack",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4906209101,
+            "updated_at": "2026-08-25T16:21:11-04:00",
+            "requisition_id": "P-5847425571",
+            "title": "Customer Success Engineer - YouTrack",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-23T10:27:07-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4918398101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4496862101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Developer Advocacy",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Developer Advocacy",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4918398101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845161117",
+            "title": "Developer Advocate (Database) ",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-17T10:39:08-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4926484101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4500554101,
+            "location": {
+                "name": "Amsterdam, Netherlands"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "People",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4926484101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845160777",
+            "title": "Employee Relations Manager",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-22T04:44:21-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4782168101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4429836101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Remote, Germany; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Product Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Innovation Hub",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4782168101,
+            "updated_at": "2026-09-07T08:59:12-04:00",
+            "requisition_id": "P-5306780489",
+            "title": " Entrepreneur in Residence/Product Lead (Project Thinkrail)",
+            "company_name": "JetBrains",
+            "first_published": "2026-02-16T03:26:38-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4964171101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4517280101,
+            "location": {
+                "name": "Limassol, Cyprus; Paphos, Cyprus; Prague, Czech Republic"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": null,
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4964171101,
+            "updated_at": "2026-09-09T12:16:22-04:00",
+            "requisition_id": "P-4836654490",
+            "title": "Finance Business Partner ",
+            "company_name": "JetBrains",
+            "first_published": "2026-09-09T12:16:22-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4769511101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4423882101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Innovation Hub",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4769511101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-8256911166",
+            "title": "Founding ML Engineer (Spectrum)",
+            "company_name": "JetBrains",
+            "first_published": "2026-01-30T10:00:19-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4927313101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4500888101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Prague, Czech Republic; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Finance",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4927313101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845163285",
+            "title": "Global Indirect Tax Manager",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-15T03:49:00-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4895059101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4486066101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Product Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4895059101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845162240",
+            "title": "Growth manager (JetBrains AI)",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-18T12:01:23-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4970724101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4520049101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Marketing",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": null,
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4970724101,
+            "updated_at": "2026-09-10T08:14:21-04:00",
+            "requisition_id": "P-1718169280",
+            "title": "Growth Marketer (AI-Powered QA Automation)",
+            "company_name": "JetBrains",
+            "first_published": "2026-09-10T08:14:21-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4897599101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4487319101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Berlin, Germany; Munich, Germany; Remote, Germany"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4897599101,
+            "updated_at": "2026-08-26T04:21:53-04:00",
+            "requisition_id": "P-5847425562",
+            "title": "Growth Operations Manager (JetBrains AI)",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-17T04:50:33-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4852550101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4462439101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Marketing",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Marketing",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4852550101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845161577",
+            "title": "Head of B2B Marketing",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-11T06:51:05-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4774826101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4426313101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Marketing",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Marketing",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4774826101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425456",
+            "title": "Head of Brand",
+            "company_name": "JetBrains",
+            "first_published": "2026-02-09T04:29:41-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4764092101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4421302101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Product Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IntelliJ",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4764092101,
+            "updated_at": "2026-09-09T09:00:32-04:00",
+            "requisition_id": "P-5067836940",
+            "title": "Head of JS/TS Ecosystem ",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-22T11:32:11-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4754381101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4415895101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4754381101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845162908",
+            "title": "Head of ML",
+            "company_name": "JetBrains",
+            "first_published": "2026-02-06T06:18:07-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4822530101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4448519101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Prague, Czech Republic"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Finance",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4822530101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845162967",
+            "title": "Head of Procurement",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-14T10:25:13-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4790552101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4433766101,
+            "location": {
+                "name": "Limassol, Cyprus; Paphos, Cyprus"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Design",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Other",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4790552101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1401702014",
+            "title": "Lead Product Designer (FlySto)",
+            "company_name": "JetBrains",
+            "first_published": "2026-03-05T13:29:04-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4907838101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4491783101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Design",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "YouTrack",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4907838101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425486",
+            "title": "Lead Product Designer (YouTrack)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-09T05:36:06-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4921224101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4498166101,
+            "location": {
+                "name": "Belgrade, Serbia; Madrid, Spain; Prague, Czech Republic; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Legal",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4921224101,
+            "updated_at": "2026-08-25T09:31:12-04:00",
+            "requisition_id": "P-5847425574",
+            "title": "Legal Operations Specialist",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-08T05:54:25-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4949652101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4510931101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Prague, Czech Republic"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Finance",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4949652101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845160661",
+            "title": "Process Excellence & Continuous Improvement Lead (Finance Transformation Office)",
+            "company_name": "JetBrains",
+            "first_published": "2026-08-19T09:15:44-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4947435101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4509880101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Prague, Czech Republic"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Finance",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4947435101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425559",
+            "title": "Procurement Contract Manager (Finance)",
+            "company_name": "JetBrains",
+            "first_published": "2026-08-06T15:39:55-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4922469101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4498696101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "People",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4922469101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845161401",
+            "title": "Project Manager (People PMO)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-31T05:58:51-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777935101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4427801101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "QA",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IntelliJ",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4777935101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425640",
+            "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools) ",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-02T13:20:19-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4907234101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4491477101,
+            "location": {
+                "name": "Munich, Germany; Paphos, Cyprus"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "QA",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "YouTrack",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4907234101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845162972",
+            "title": "QA Performance Engineer (YouTrack)",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-30T09:04:38-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4754978101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4416194101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4754978101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-4933308120",
+            "title": "Research Engineer (Agentic Models)",
+            "company_name": "JetBrains",
+            "first_published": "2026-01-16T09:36:37-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4926283101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4499786101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Prague, Czech Republic"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4926283101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1227319864",
+            "title": "Sales Development Representative (Qodana)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-13T10:44:09-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4926286101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4499786101,
+            "location": {
+                "name": "Berlin, Germany; Munich, Germany; Remote, Germany"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4926286101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1227319864",
+            "title": "Sales Development Representative (Qodana) - m/w/d",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-13T10:44:10-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4785346101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4431322101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4785346101,
+            "updated_at": "2026-09-01T10:58:21-04:00",
+            "requisition_id": "P-2541721171",
+            "title": "Senior AI Engineer (Core Engine)",
+            "company_name": "JetBrains",
+            "first_published": "2026-03-09T05:19:31-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4917464101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4496413101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Kotlin Ecosystem",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4917464101,
+            "updated_at": "2026-09-10T11:18:40-04:00",
+            "requisition_id": "P-1845161575",
+            "title": "Senior Compiler Developer (Kotlin Compiler - Core)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-08T11:46:54-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4931916101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4503161101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Munich, Germany; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Sales",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Innovation Hub",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4931916101,
+            "updated_at": "2026-09-11T04:24:56-04:00",
+            "requisition_id": "P-4615963200",
+            "title": "Senior Enterprise Account Executive - New Business ",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-21T06:14:45-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4880987101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4478017101,
+            "location": {
+                "name": "Remote, United States"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4880987101,
+            "updated_at": "2026-09-14T09:06:30-04:00",
+            "requisition_id": "P-7831075328",
+            "title": "Senior Forward Deployed Engineer (AI-Native Software Development )",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-04T11:26:08-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4932805101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4503524101,
+            "location": {
+                "name": "Amsterdam, Netherlands"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Finance",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4932805101,
+            "updated_at": "2026-09-14T05:30:38-04:00",
+            "requisition_id": "P-1587091214, P-2642762212",
+            "title": "Senior GL Accountant",
+            "company_name": "JetBrains",
+            "first_published": "2026-08-04T08:51:38-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4873493101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4474762101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IntelliJ",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4873493101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845162222",
+            "title": "Senior Graphics/JVM Software Engineer  (JVM Runtime)",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-03T05:15:22-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4882315101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4479119101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Limassol, Cyprus; London, United Kingdom"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Legal",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4882315101,
+            "updated_at": "2026-08-21T05:06:13-04:00",
+            "requisition_id": "P-7510600206",
+            "title": "Senior IP Counsel",
+            "company_name": "JetBrains",
+            "first_published": "2026-06-15T05:58:51-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4862914101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4467362101,
+            "location": {
+                "name": "Berlin, Germany; Munich, Germany"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Legal",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4862914101,
+            "updated_at": "2026-09-04T04:57:36-04:00",
+            "requisition_id": "P-2933787128",
+            "title": "Senior Legal Counsel (Employment Law)",
+            "company_name": "JetBrains",
+            "first_published": "2026-05-12T04:03:54-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4923882101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4499366101,
+            "location": {
+                "name": "Berlin, Germany; Limassol, Cyprus; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Legal",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4923882101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5343013089",
+            "title": "Senior Legal Counsel (Product and Business Development)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-14T10:35:57-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4923382101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4499133101,
+            "location": {
+                "name": "Berlin, Germany; Munich, Germany; Prague, Czech Republic"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Backoffice",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Legal",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4923382101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-8795310220",
+            "title": "Senior Legal Counsel (Regulatory and Data Privacy)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-14T10:43:56-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4937092101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4505376101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Matterhorn",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4937092101,
+            "updated_at": "2026-08-31T09:58:33-04:00",
+            "requisition_id": "P-2435910377",
+            "title": "(Senior) Machine Learning Developer (Junie)",
+            "company_name": "JetBrains",
+            "first_published": "2026-08-03T12:43:23-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4790191101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4433594101,
+            "location": {
+                "name": "Shanghai, China"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Marketing",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Marketing",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4790191101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425484",
+            "title": "Senior Marketing Manager",
+            "company_name": "JetBrains",
+            "first_published": "2026-03-03T21:23:46-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4806218101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4440901101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Design",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4806218101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845162712",
+            "title": "Senior Product Designer (AIR)",
+            "company_name": "JetBrains",
+            "first_published": "2026-03-25T07:08:28-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4947748101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4510003101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Product Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Operations",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4947748101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425555",
+            "title": "Senior Product Manager (Business Applications Development)",
+            "company_name": "JetBrains",
+            "first_published": "2026-08-12T10:56:45-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4881707101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4478748101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Product Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IDEs",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4881707101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-3967409729",
+            "title": "Senior Product Manager (VCS Ecosystem)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-28T03:13:06-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4830689101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4452425101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Kotlin Ecosystem",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4830689101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-4716279023",
+            "title": "Senior Research Engineer (Agentic Behavior)",
+            "company_name": "JetBrains",
+            "first_published": "2026-04-02T11:18:52-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4963986101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4517196101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": null,
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4963986101,
+            "updated_at": "2026-09-10T10:04:37-04:00",
+            "requisition_id": "P-1845162184",
+            "title": "Senior Software Developer (JCP Core Foundation Licensing and Quotation)",
+            "company_name": "JetBrains",
+            "first_published": "2026-09-10T10:04:06-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4830653101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4452410101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Innovation Hub",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4830653101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-4395131602",
+            "title": "Senior Software Engineer (AppGlass)",
+            "company_name": "JetBrains",
+            "first_published": "2026-04-02T08:13:19-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4932747101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4503515101,
+            "location": {
+                "name": "Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4932747101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845160996",
+            "title": "Senior Software Engineer (Qodana Core)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-23T07:57:06-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4845848101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4459842101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Product Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Kotlin Ecosystem",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4845848101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-1845160828",
+            "title": "Senior Technical Product Manager (IntelliJ Kotlin Plugin)",
+            "company_name": "JetBrains",
+            "first_published": "2026-05-12T10:33:44-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4791653101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4434296101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Project Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IDEs",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4791653101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425525",
+            "title": "Senior Technical Program Manager (IDE Department)",
+            "company_name": "JetBrains",
+            "first_published": "2026-04-01T07:30:43-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4516088101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "QA",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": null,
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4961618101,
+            "updated_at": "2026-09-09T08:28:52-04:00",
+            "requisition_id": "P-1845162542",
+            "title": "Senior Test Automation Engineer (TeamCity)",
+            "company_name": "JetBrains",
+            "first_published": "2026-09-09T08:28:52-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4757237101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4418019101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Innovation Hub",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4757237101,
+            "updated_at": "2026-09-11T09:26:26-04:00",
+            "requisition_id": "P-7884230758",
+            "title": "Software Developer for ThinkRail (Innovation Hub)",
+            "company_name": "JetBrains",
+            "first_published": "2026-01-26T03:35:47-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4866608101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4469950101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Operations",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4866608101,
+            "updated_at": "2026-09-02T10:35:43-04:00",
+            "requisition_id": "P-1845161757",
+            "title": "Software Developer  Java/ Node.JS (Web Development Team)",
+            "company_name": "JetBrains",
+            "first_published": "2026-05-18T06:10:28-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4927784101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4501103101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Prague, Czech Republic"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Finance",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4927784101,
+            "updated_at": "2026-08-31T04:38:41-04:00",
+            "requisition_id": "P-8534715933",
+            "title": "Solutions Architect (Finance Transformation Office)",
+            "company_name": "JetBrains",
+            "first_published": "2026-07-22T12:04:41-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4814057101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4444560101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Warsaw, Poland"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "Professional Services",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4814057101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425475",
+            "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
+            "company_name": "JetBrains",
+            "first_published": "2026-03-26T10:11:25-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4970937101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4459241101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IDEs",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4970937101,
+            "updated_at": "2026-09-08T10:17:38-04:00",
+            "requisition_id": "P-7124662450",
+            "title": "Staff/Lead Software Developer (AI Agents & Integrations)",
+            "company_name": "JetBrains",
+            "first_published": "2026-09-08T10:17:38-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4818536101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4390163101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains AI",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4818536101,
+            "updated_at": "2026-09-07T09:26:38-04:00",
+            "requisition_id": "P-7601097136",
+            "title": "Staff Research Engineer (LLM Pre-Training)",
+            "company_name": "JetBrains",
+            "first_published": "2026-03-20T11:51:29-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4867489101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4470524101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "AI/ML",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4867489101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-7773887657",
+            "title": "Staff/Senior AI Engineer, AI for Code",
+            "company_name": "JetBrains",
+            "first_published": "2026-05-20T12:55:23-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4963991101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4517198101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": null,
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4963991101,
+            "updated_at": "2026-09-10T07:42:24-04:00",
+            "requisition_id": "P-1845162973",
+            "title": "Staff Software Developer (IAM)",
+            "company_name": "JetBrains",
+            "first_published": "2026-09-04T09:25:12-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4828143101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4392102101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IntelliJ",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4828143101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425447",
+            "title": "Staff Software Developer (IntelliJ Platform)",
+            "company_name": "JetBrains",
+            "first_published": "2026-03-31T10:30:03-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4699241101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4392102101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Software Development",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "IntelliJ",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4699241101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425447",
+            "title": "Technical Lead (IntelliJ Platform)",
+            "company_name": "JetBrains",
+            "first_published": "2025-12-22T04:57:59-05:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4956003101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4513675101,
+            "location": {
+                "name": "Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Marketing",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": null,
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4956003101,
+            "updated_at": "2026-09-09T12:09:31-04:00",
+            "requisition_id": "P-1845162677",
+            "title": "Technical Product Marketing Manager (.NET Developer Tools)",
+            "company_name": "JetBrains",
+            "first_published": "2026-09-09T12:07:36-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4741520101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4409779101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Project Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": "JetBrains Cloud Platform",
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4741520101,
+            "updated_at": "2026-08-20T12:59:01-04:00",
+            "requisition_id": "P-5847425585",
+            "title": "Technical Project Manager (JetBrains Cloud Platform)",
+            "company_name": "JetBrains",
+            "first_published": "2026-02-06T09:44:46-05:00",
+            "language": "en",
+            "application_deadline": null
+        }
+    ],
+    "meta": {
+        "total": 68
+    }
+}
