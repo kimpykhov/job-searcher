@@ -14,19 +14,21 @@ company = Company(
 )
 
 
-COMPANY_TOKEN = "jetbrains"
+def fetch_companies_data(ats_identifier):
+    url = f"https://boards-api.greenhouse.io/v1/boards/{company.ats_identifier}/jobs"
 
-# todo token for jetbrains - temporary solution, later to be adjusted for a list
-url = f"https://boards-api.greenhouse.io/v1/boards/{COMPANY_TOKEN}/jobs"
+    response = requests.get(url)
 
-response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        # Information is being written to a file for debugging purposes only; it needs to be removed for the MVP.
+        with open("jetbrains_jobs.json", "w", encoding="utf-8") as file:
+            json.dump(data, file, ensure_ascii=False, indent=4)
 
-if response.status_code == 200:
-    data = response.json()
+        return response.json()
+    else:
+        return f"error, server status-code: {response.status_code}"
 
-    # todo to remove store on disk. shall return the value
-    with open("jetbrains_jobs.json", "w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=4)
 
-else:
-    print(f"error, server status-code: {response.status_code}")
+company_data = fetch_companies_data(company.ats_identifier)
+
