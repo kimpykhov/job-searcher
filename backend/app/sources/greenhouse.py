@@ -36,24 +36,26 @@ company_data = fetch_companies_data(company.ats_identifier)
 
 
 # function shall create some objects for a class RawJob
-def normalize_jobs(company_data):
+def normalize_jobs(data: dict):
     raw_list = []
-    new_job = []
 
-    job = company_data["jobs"][0]
-    external_id = job["internal_job_id"]
-    company_name = job["company_name"]
-    published_at = job["first_published"]
-    title = job["title"]
-    location = job["location"]["name"]
-    url = job["absolute_url"]
+    jobs = data["jobs"]
+    job = jobs[0]
 
-    new_job.extend([external_id, company_name, published_at, title, location, url])
+    new_job = RawJob(
+        external_id=job["internal_job_id"],
+        company_name=job["company_name"],
+        published_at=job["first_published"],
+        title=job["title"],
+        location=job["location"]["name"],
+        url=job["absolute_url"]
+    )
 
-    #debug line
-    print(url)
+    raw_list.append(new_job)
 
-    return raw_list.append(new_job)
+    return raw_list
 
-#debug line
+
+# debug line
 normalize_jobs(company_data)
+
