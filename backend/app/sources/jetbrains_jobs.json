@@ -1123,8 +1123,8 @@
                 }
             ],
             "id": 4777935101,
-            "updated_at": "2026-08-20T12:59:01-04:00",
-            "requisition_id": "P-5847425640",
+            "updated_at": "2026-09-24T08:03:38-04:00",
+            "requisition_id": "P-5847425641",
             "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools) ",
             "company_name": "JetBrains",
             "first_published": "2026-07-02T13:20:19-04:00",
@@ -1713,6 +1713,45 @@
             "title": "Senior Product Manager (Business Applications Development)",
             "company_name": "JetBrains",
             "first_published": "2026-08-12T10:56:45-04:00",
+            "language": "en",
+            "application_deadline": null
+        },
+        {
+            "absolute_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4973134101",
+            "data_compliance": [
+                {
+                    "type": "gdpr",
+                    "requires_consent": true,
+                    "requires_processing_consent": false,
+                    "requires_retention_consent": true,
+                    "retention_period": 2190,
+                    "demographic_data_consent_applies": false
+                }
+            ],
+            "internal_job_id": 4521060101,
+            "location": {
+                "name": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+            },
+            "metadata": [
+                {
+                    "id": 11295787101,
+                    "name": "Job Category",
+                    "value": "Product Management",
+                    "value_type": "single_select"
+                },
+                {
+                    "id": 11295751101,
+                    "name": "Team",
+                    "value": null,
+                    "value_type": "single_select"
+                }
+            ],
+            "id": 4973134101,
+            "updated_at": "2026-09-24T11:13:47-04:00",
+            "requisition_id": "P-1845161997",
+            "title": "Senior Product Manager (JetBrains Context)",
+            "company_name": "JetBrains",
+            "first_published": "2026-09-24T09:51:51-04:00",
             "language": "en",
             "application_deadline": null
         },
@@ -2498,6 +2537,6 @@
         }
     ],
     "meta": {
-        "total": 64
+        "total": 65
     }
 }

@@ -40,18 +40,20 @@ def normalize_jobs(data: dict):
     raw_list = []
 
     jobs = data["jobs"]
-    job = jobs[0]
+    # job = jobs[0]
 
-    new_job = RawJob(
-        external_id=job["internal_job_id"],
-        company_name=job["company_name"],
-        published_at=job["first_published"],
-        title=job["title"],
-        location=job["location"]["name"],
-        url=job["absolute_url"]
-    )
+    for job in jobs:
 
-    raw_list.append(new_job)
+        new_job = RawJob(
+            external_id=job["internal_job_id"],
+            company_name=job["company_name"],
+            published_at=job["first_published"],
+            title=job["title"],
+            location=job["location"]["name"],
+            url=job["absolute_url"]
+        )
+
+        raw_list.append(new_job)
 
     return raw_list
 
