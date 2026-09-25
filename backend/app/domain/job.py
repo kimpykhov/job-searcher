@@ -20,9 +20,10 @@ class Job(BaseModel):
     company_name: str
     description: str
     url: HttpUrl
+    country: str | None
+    city: str | None
+    workplace: Literal["hybrid", "on-site", "remote"] | None  # hybrid/on-site/remote
     title: str  # sr qa automation etc
     role: str  # qa
     seniority: str
-    country: str
-    city: str
-    workplace: Literal["hybrid", "on-site", "remote"]  # hybrid/on-site/remote
+    specialization: str | None
