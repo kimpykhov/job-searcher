@@ -6,7 +6,7 @@ The goal is to reduce irrelevant job recommendations by normalizing job data and
 
 ## Features
 
-- Collect jobs directly from ATS platforms
+- Collect jobs directly from ATS platforms (Lever, Greenhouse, Ashby etc.)
 - Normalize job data into a common format
 - Parse job titles, locations, and skills
 - Filter vacancies using configurable matching rules
@@ -40,17 +40,16 @@ ATS / Career Page
 
 ### Other
 - pytest
-- uv
 - Telegram Bot API
 
 ## Project Structure
 
-- domain/ — core application models
-- sources/ — integrations with ATS platforms and career pages
-- parsers/ — job title, location, and skill normalization
-- matching/ — vacancy matching and filtering
-- services/ — application workflows
-- frontend/ — web interface
+- domain/ - core application models
+- sources/ - integrations with ATS platforms and career pages
+- parsers/ - job title, location, and skill normalization
+- matching/ - vacancy matching and filtering
+- services/ - application workflows
+- frontend/ - web interface
 
 ## Current Status
 
