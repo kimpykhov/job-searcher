@@ -1,16 +1,30 @@
-def title_parser(data):
+def seniority_parser(data):
     # dict for allowed title values
-    title_dict = ["senior", "sen.", "sr", "sr.", "middle", "mid.", "junior", "jun."]
+    title_mapping = {
+        "senior": "senior", "sen.": "senior", "sr": "senior", "sr.": "senior",
+        "middle": "middle", "mid.": "middle", "mid": "middle",
+        "junior": "junior", "jun.": "junior", "jun": "junior"
+    }
 
     # creation of list to split the values
     titles = data.lower().split()
 
     title_value = None
 
-    for role in title_dict:
-        if role in titles:
-            title_value = role
+    for role in titles:
+        # ToDo need to add else block, for cases that's weren't predicted as type None
+        if role in title_mapping:
+            title_value = title_mapping[role]
     return title_value
 
 
-print((title_parser("SR QA Engineer")))
+print((seniority_parser("SR QA Engineer")))
+
+
+def role_parser(data):
+    pass
+
+
+def specialization_parser(data):
+    pass
+
