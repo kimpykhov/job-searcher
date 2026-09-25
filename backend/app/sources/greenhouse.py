@@ -45,19 +45,21 @@ def normalize_jobs(data: dict):
     for job in jobs:
 
         new_job = RawJob(
+            source=company.ats_type,
             external_id=job["internal_job_id"],
             company_name=job["company_name"],
             published_at=job["first_published"],
             title=job["title"],
             location=job["location"]["name"],
+            description="none",
             url=job["absolute_url"]
         )
 
         raw_list.append(new_job)
-
+    #print shall be removed after degug
+    print(raw_list)
     return raw_list
 
 
 # debug line
 normalize_jobs(company_data)
-

@@ -5,7 +5,7 @@ from datetime import datetime
 
 class RawJob(BaseModel):
     source: str
-    external_id: str
+    external_id: int
     company_name: str
     published_at: datetime
     title: str  # "Sr. QA Automation Engineer (m/f/d)"
