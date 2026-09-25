@@ -17,7 +17,7 @@ company = Company(
 
 # function shall receive dict for a raw jobs presented on greenhouse
 def fetch_companies_data(ats_identifier):
-    url = f"https://boards-api.greenhouse.io/v1/boards/{company.ats_identifier}/jobs"
+    url = f"https://boards-api.greenhouse.io/v1/boards/{company.ats_identifier}/jobs?content=true"
 
     response = requests.get(url)
 
@@ -46,12 +46,12 @@ def normalize_jobs(data: dict):
 
         new_job = RawJob(
             source=company.ats_type,
-            external_id=job["internal_job_id"],
+            external_id=str(job["internal_job_id"]),
             company_name=job["company_name"],
             published_at=job["first_published"],
             title=job["title"],
             location=job["location"]["name"],
-            description="none",
+            description=job["content"],
             url=job["absolute_url"]
         )
 
