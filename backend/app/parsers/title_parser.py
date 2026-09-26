@@ -79,3 +79,17 @@ def specialization_parser(data):
 # debug to be removed
 print((specialization_parser("Senior Data Scientist")))
 
+
+# goal of the function to connect all the previous functions and return whole parsed_title/result
+def title_parser(data):
+    title = {
+        "role": role_parser(data),
+        "seniority": seniority_parser(data),
+        "specialization": specialization_parser(data)
+    }
+    return title
+
+
+# debug to be removed
+print((title_parser("SR QA Engineer")))
+
