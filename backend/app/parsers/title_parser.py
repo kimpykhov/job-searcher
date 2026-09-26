@@ -27,12 +27,11 @@ print((seniority_parser("SR QA Engineer")))
 def role_parser(data):
     # dict for allowed role values
     role_mapping = {
-        "qa": "qa", "quality": "qa", "test": "qa", "tester": "qa", "тестировщик": "qa", "куа": "qa",
-        "developer": "developer", "dev": "developer", "engineer": "developer", "programmer": "developer",
-        "разработчик": "developer", "дев": "developer", "программист": "developer", "инженер": "developer",
-        "ml": "ml", "ai": "ml", "ds": "ml", "data scientist": "ml", "мль": "ml", "ии": "ml",
-        "pm": "pm", "manager": "pm", "менеджер": "pm", "ba": "ba", "analyst": "ba", "аналитик": "ba",
-        "designer": "designer", "ux": "designer", "ui": "designer", "дизайнер": "designer"
+        "qa": "qa", "quality": "qa", "test": "qa", "tester": "qa",
+        "developer": "developer", "dev": "developer", "programmer": "developer",
+        "ml": "ml", "ai": "ml", "ds": "ml", "data scientist": "ml",
+        "pm": "pm", "manager": "pm", "ba": "ba", "analyst": "ba",
+        "designer": "designer", "ux": "designer", "ui": "designer"
     }
 
     roles = data.lower().split()
@@ -50,6 +49,7 @@ def role_parser(data):
 print((role_parser("SR QA Engineer")))
 
 
+# ToDo Senior Data Scientist wouldn't work because of lost value on the dict.
 # function shall return only specialization of user
 def specialization_parser(data):
     # dict for allowed specialization values
@@ -77,5 +77,5 @@ def specialization_parser(data):
 
 
 # debug to be removed
-print((specialization_parser("SR QA Engineer")))
+print((specialization_parser("Senior Data Scientist")))
 
