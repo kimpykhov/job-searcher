@@ -1,3 +1,4 @@
+# function shall return only seniority of user
 def seniority_parser(data):
     # dict for allowed title values
     title_mapping = {
@@ -22,6 +23,7 @@ print((seniority_parser("SR QA Engineer")))
 
 
 # ToDo if order in phrase will be different, function might be broken. Rework is must.
+# function shall return only role of user
 def role_parser(data):
     # dict for allowed role values
     role_mapping = {
@@ -48,6 +50,7 @@ def role_parser(data):
 print((role_parser("SR QA Engineer")))
 
 
+# function shall return only specialization of user
 def specialization_parser(data):
     # dict for allowed specialization values
     specialization_mapping = {
