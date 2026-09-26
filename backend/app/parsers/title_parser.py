@@ -12,7 +12,6 @@ def seniority_parser(data):
     title_value = None
 
     for role in titles:
-        # ToDo need to add else block, for cases that's weren't predicted as type None
         if role in title_mapping:
             title_value = title_mapping[role]
     return title_value
@@ -22,6 +21,7 @@ def seniority_parser(data):
 print((seniority_parser("SR QA Engineer")))
 
 
+# ToDo if order in phrase will be different, function might be broken. Rework is must.
 def role_parser(data):
     # dict for allowed role values
     role_mapping = {
@@ -38,17 +38,41 @@ def role_parser(data):
     role_value = None
 
     for role in roles:
-        # ToDo need to add else block, for cases that's weren't predicted as type None
         if role in role_mapping:
             role_value = role_mapping[role]
             break
     return role_value
 
 
+# debug to be removed
+print((role_parser("SR QA Engineer")))
+
+
 def specialization_parser(data):
-    pass
+    # dict for allowed specialization values
+    specialization_mapping = {
+        "automation": "automation", "autotest": "automation", "автомейшен": "automation", "автоматизатор": "automation",
+        "manual": "manual", "мануал": "manual", "ручной": "manual",
+        "performance": "performance", "load": "performance", "перформанс": "performance", "нагрузочное": "performance",
+        "frontend": "frontend", "front-end": "frontend", "фронтэнд": "frontend", "фронтенд": "frontend",
+        "backend": "backend", "back-end": "backend", "бэкэнд": "backend", "бэкенд": "backend",
+        "fullstack": "fullstack", "full-stack": "fullstack", "фуллстек": "fullstack",
+        "ios": "ios", "android": "android", "andriod": "android", "mobile": "mobile", "мобильный": "mobile",
+        "nlp": "nlp", "cv": "cv", "vision": "cv",
+        "none": "none", "nan": "none", "нан": "none"
+    }
+
+    specializations = data.lower().split()
+
+    specialization_value = None
+
+    for spec in specializations:
+        if spec in specialization_mapping:
+            specialization_value = specialization_mapping[spec]
+            break
+    return specialization_value
 
 
 # debug to be removed
-print((role_parser("SR QA Engineer")))
+print((specialization_parser("SR QA Engineer")))
 
