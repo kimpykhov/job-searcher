@@ -32,6 +32,7 @@ def fetch_companies_data(ats_identifier):
         return f"error, server status-code: {response.status_code}"
 
 
+# todo shall be removed, extra call as not needed. probably can ruin run in main.py
 company_data = fetch_companies_data(company.ats_identifier)
 
 
@@ -40,7 +41,6 @@ def normalize_jobs(data: dict):
     raw_list = []
 
     jobs = data["jobs"]
-    # job = jobs[0]
 
     for job in jobs:
 
@@ -56,10 +56,11 @@ def normalize_jobs(data: dict):
         )
 
         raw_list.append(new_job)
-    #print shall be removed after degug
-    print(raw_list)
+    # print shall be removed after debug
+    # print(raw_list)
     return raw_list
 
 
 # debug line
-normalize_jobs(company_data)
+# normalize_jobs(company_data)
+

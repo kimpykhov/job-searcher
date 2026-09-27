@@ -19,7 +19,7 @@ def seniority_parser(data):
 
 
 # debug to be removed
-print((seniority_parser("SR QA Engineer")))
+# print((seniority_parser("SR QA Engineer")))
 
 
 # ToDo if order in phrase will be different, function might be broken. Rework is must.
@@ -46,7 +46,7 @@ def role_parser(data):
 
 
 # debug to be removed
-print((role_parser("SR QA Engineer")))
+# print((role_parser("SR QA Engineer")))
 
 
 # ToDo Senior Data Scientist wouldn't work because of lost value on the dict.
@@ -77,7 +77,7 @@ def specialization_parser(data):
 
 
 # debug to be removed
-print((specialization_parser("Senior Data Scientist")))
+# print((specialization_parser("Senior Data Scientist")))
 
 
 # goal of the function to connect all the previous functions and return whole parsed_title/result
@@ -91,5 +91,5 @@ def title_parser(data):
 
 
 # debug to be removed
-print((title_parser("SR QA Engineer")))
+# print((title_parser("SR QA Engineer")))
 
